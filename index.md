@@ -6,4 +6,5 @@
 ### Is this level 3?? ahh yes
 #### level 4, nice innit?
 
-This is it, comitting overall with headers
+#### Here is the image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
